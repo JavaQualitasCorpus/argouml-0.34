@@ -1,0 +1,22 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./argouml/.*
+- ./argouml-cpp/.*
+- ./argouml-csharp/.*
+- ./argouml-de/.*
+- ./argouml-documentation/.*
+- ./argouml-en-gb/.*
+- ./argouml-es/.*
+- ./argouml-fr/.*
+- ./argouml-i18n-zh/.*
+- ./argouml-idl/.*
+- ./argouml-it/.*
+- ./argouml-java/.*
+- ./argouml-nb/.*
+- ./argouml-php/.*
+- ./argouml-pt/.*
+- ./argouml-pt-br/.*
+- ./argouml-ru/.*
+- ./argouml-sql/.*
